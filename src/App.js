@@ -31,6 +31,7 @@ class App extends Component {
       cache: false,
       success: function(data){
         this.setState({resumeData: data});
+		console.log(data);
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
@@ -50,8 +51,8 @@ class App extends Component {
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
-        <Testimonials data={this.state.resumeData.testimonials}/>
-        <Contact data={this.state.resumeData.main}/>
+        {/* <Testimonials data={this.state.resumeData.testimonials}/> */}
+        {/*<Contact data={this.state.resumeData.main}/>*/}
         <Footer data={this.state.resumeData.main}/>
       </div>
     );
