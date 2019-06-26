@@ -1,117 +1,95 @@
 {
   "main": {
     "name":"Troy Clarke",
-    "occupation":"Web/Data Guy",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Web/Data Developer",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"An innovative IT Developer with over 15 years expertise in the development of solutions utilizing SQL, .NET, web technologies and Microsoft Dynamics. Strong background in application development, project life cycle and client interaction.",
+    "contactmessage":"Please feel free to drop me a line.",
+    "email": "teclarke@rogers.com",
+    "phone": "365-777-8259",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Toronto",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"ON.",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"www.linkedin.com/in/troy-clarke-6752ba9",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/troyclarke69",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
+    "skillmessage":"Proficiency levels of the following skillsets:",
+    
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CherryTree Co.",
+        "title":"Lead Developer",
+        "years":"October 2014 - June 2019",
+        "description":"SQL and Web development, Data integrations.",
+		"highlights": [
+                "Created a mobile app for appointment bookings using Xamarin (XAML), C# and SQLite. ",
+                "Built data integrations in Dynamics GP 2013 to correct inventory costs and order pricing, using SmartConnect and MSSQL. ",
+                "Developed data migrations/integrations to consolidate sales data for 4 newly acquired companies, from QuickBooks (ver.15) to Dynamics CRM 2013 using Scribe, SSIS, SQL. ",
+				"Provided technical support, development and training for data integrations that tracked customer, leads and sales order information, using Scribe, SQL and Dynamics GP. "
+            ]	
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"UXC Eclipse",
+        "title":"Sr. Programming Consultant",
+        "years":"September 2002 - February 2014",
+        "description":"Microsoft Certified Business Solutions Partner (Formerly Tectura)",
+		"highlights": [
+                "Developed and implemented business solutions for MS Dynamics GP/CRM using Visual Studio.NET (C#, VB and ASP), Dexterity and SQL. ",
+                "Built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the GP and CRM platforms. "
+            ]
+      }
+    ],
+	"education":[
+      {
+        "school":"triOS College",
+        "degree":"Web Technician Specialist Diploma",
+        "graduated":"June 2018",
+        "description":"Curriculum covered: HTML5, CSS3, Javascript, Java, C++, C#.Net, PHP, ASP.Net, SQL, Photoshop and Illustrator"
+      },
+      {
+        "school":"Sheridan College",
+        "degree":"Computer Programmer Diploma",
+        "graduated":"April 1999",
+        "description":"Programming foundations with VB5/6."
       }
     ],
     "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+	  {
+        "name":"SQL",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"HTML5/CSS/Javascript",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"C#.Net, VB.Net, ASP.Net, PHP, Photoshop",
+        "level":"70%"
+      },
+	  {
+        "name":"Git, MVC, JQuery, Ajax",
         "level":"50%"
       },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+	  {
+        "name":"ReactJs, Python, Illustrator",
+        "level":"40%"
       }
     ]
   },
