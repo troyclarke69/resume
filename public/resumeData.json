@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"www.linkedin.com/in/troy-clarke-6752ba9",
+        "url":"http://www.linkedin.com/in/troy-clarke-6752ba9",
         "className":"fa fa-linkedin"
       },
       {
@@ -96,34 +96,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Time Entry Sample App",
+        "category":"PHP, AJAX, JSON, SQL",
+        "image":"ctmLink.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/ctm"
       },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+	  {
+        "title":"Shopping Cart Sample App",
+        "category":"PHP, SQL",
+        "image":"link6.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/goshop/"
       },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+	  {
+        "title":"Angular Todo Sample App",
+        "category":"Angular, JSON",
+        "image":"link7.jpg",
+        "url":"http://triosdevelopers.com/~T.Clarke/AngularJS/"
       },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+	  {
+        "title":"Mobile Sample App",
+        "category":"Xamarin, SQL",
+        "image":"hair.png",
+        "url":"http://triosdevelopers.com/~T.Clarke/HairBook/"
       }
     ]
   },
