@@ -39,7 +39,7 @@
         "years":"October 2014 - June 2019",
         "description":"SQL and Web development, Data integrations.",
 		"highlights": [
-                "• Built data integrations in Dynamics GP to correct inventory costs and order pricing to accurately report earnings using SQL (queries, stored procedures, views, triggers and functions), SmartConnect and VB.NET. • Developed data migrations/integrations to consolidate sales data for four newly acquired companies, from QuickBooks to Dynamics CRM using Scribe, SSIS and SQL. • Created a mobile app for appointment bookings to grow revenue using Xamarin (XAML), C# and SQLite. • Provided technical support, development and training for data integrations that tracked customer and sales order information, using Scribe, SQL and Dynamics GP."
+                "Built data integrations in Dynamics GP to correct inventory costs and order pricing to accurately report earnings using SQL (queries, stored procedures, views, triggers and functions), SmartConnect and VB.NET. • Developed data migrations/integrations to consolidate sales data for four newly acquired companies, from QuickBooks to Dynamics CRM using Scribe, SSIS and SQL. • Created a mobile app for appointment bookings to grow revenue using Xamarin (XAML), C# and SQLite. • Provided technical support, development and training for data integrations that tracked customer and sales order information, using Scribe, SQL and Dynamics GP."
             ]	
       },
       {
@@ -48,21 +48,21 @@
         "years":"September 2002 - February 2014",
         "description":"Microsoft Certified Business Solutions Partner (Formerly Tectura)",
 		"highlights": [
-                "• Collaborated with clients, consultants and developers to analyze, design and develop custom business solutions to extend and streamline Microsoft Dynamics GP/CRM. • Using Visual Studio.NET (C#, VB and ASP), Dexterity, VBA and SQL, implemented functionality that saved time, increased productivity and boosted sales. • Using multiple data sources, built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the Dynamics GP and CRM platforms. "
+                "Collaborated with clients, consultants and developers to analyze, design and develop custom business solutions to extend and streamline Microsoft Dynamics GP/CRM. • Using Visual Studio.NET (C#, VB and ASP), Dexterity, VBA and SQL, implemented functionality that saved time, increased productivity and boosted sales. • Using multiple data sources, built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the Dynamics GP and CRM platforms. "
             ]
       }
     ],
 	"education":[
       {
         "school":"triOS College",
-        "degree":"Web Technician Specialist Diploma",
-        "graduated":"",
+        "degree":"Web Technician Specialist",
+        "graduated":"Diploma",
         "description":""
       },
       {
         "school":"Sheridan College",
-        "degree":"Computer Programmer Diploma",
-        "graduated":"",
+        "degree":"Computer Programmer",
+        "graduated":"Diploma",
         "description":""
       }
     ],
