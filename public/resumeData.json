@@ -4,7 +4,7 @@
     "occupation":"Web/Data Developer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"An innovative IT Developer with over 15 years expertise in the development of solutions utilizing SQL, .NET, web technologies and Microsoft Dynamics. Strong background in application development, project life cycle and client interaction.",
+    "bio":"Experienced Developer with a demonstrated history of working in the computer software industry. Strong operations professional skilled in SQL Server Development, Web Design and Development, Business Process, Requirements Analysis, Enterprise Software, and Software Implementation.",
     "contactmessage":"Please feel free to drop me a line.",
     "email": "teclarke@rogers.com",
     "phone": "365-777-8259",
@@ -39,10 +39,7 @@
         "years":"October 2014 - June 2019",
         "description":"SQL and Web development, Data integrations.",
 		"highlights": [
-                "Created a mobile app for appointment bookings using Xamarin (XAML), C# and SQLite. ",
-                "Built data integrations in Dynamics GP 2013 to correct inventory costs and order pricing, using SmartConnect and MSSQL. ",
-                "Developed data migrations/integrations to consolidate sales data for 4 newly acquired companies, from QuickBooks (ver.15) to Dynamics CRM 2013 using Scribe, SSIS, SQL. ",
-				"Provided technical support, development and training for data integrations that tracked customer, leads and sales order information, using Scribe, SQL and Dynamics GP. "
+                "• Built data integrations in Dynamics GP to correct inventory costs and order pricing to accurately report earnings using SQL (queries, stored procedures, views, triggers and functions), SmartConnect and VB.NET. • Developed data migrations/integrations to consolidate sales data for four newly acquired companies, from QuickBooks to Dynamics CRM using Scribe, SSIS and SQL. • Created a mobile app for appointment bookings to grow revenue using Xamarin (XAML), C# and SQLite. • Provided technical support, development and training for data integrations that tracked customer and sales order information, using Scribe, SQL and Dynamics GP."
             ]	
       },
       {
@@ -51,8 +48,7 @@
         "years":"September 2002 - February 2014",
         "description":"Microsoft Certified Business Solutions Partner (Formerly Tectura)",
 		"highlights": [
-                "Developed and implemented business solutions for MS Dynamics GP/CRM using Visual Studio.NET (C#, VB and ASP), Dexterity and SQL. ",
-                "Built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the GP and CRM platforms. "
+                "• Collaborated with clients, consultants and developers to analyze, design and develop custom business solutions to extend and streamline Microsoft Dynamics GP/CRM. • Using Visual Studio.NET (C#, VB and ASP), Dexterity, VBA and SQL, implemented functionality that saved time, increased productivity and boosted sales. • Using multiple data sources, built extensive data migrations and integrations responsible for the import and export of thousands of rows of data, amounting to millions of dollars, using integration tools such as Scribe, eConnect, SmartConnect and Integration Manager for the Dynamics GP and CRM platforms. "
             ]
       }
     ],
@@ -60,14 +56,14 @@
       {
         "school":"triOS College",
         "degree":"Web Technician Specialist Diploma",
-        "graduated":"June 2018",
-        "description":"Curriculum covered: HTML5, CSS3, Javascript, Java, C++, C#.Net, PHP, ASP.Net, SQL, Photoshop and Illustrator"
+        "graduated":"",
+        "description":""
       },
       {
         "school":"Sheridan College",
         "degree":"Computer Programmer Diploma",
-        "graduated":"April 1999",
-        "description":"Programming foundations with VB5/6."
+        "graduated":"",
+        "description":""
       }
     ],
     "skills":[
