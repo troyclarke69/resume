@@ -66,15 +66,15 @@
         "level":"90%"
       },
       {
-        "name":"HTML5/CSS/Javascript, C#.Net ",
+        "name":"HTML5, CSS, Javascript, C#.Net ",
         "level":"80%"
       },
       {
-        "name":"VB.Net, ASP.Net MVC, PHP, Photoshop",
+        "name":"VB.Net, ASP.Net MVC, React, Angular, Python, Photoshop",
         "level":"70%"
       },
 	  {
-        "name":"Git, JQuery, Ajax, React, Angular, Python, Illustrator",
+        "name":"Git, PHP, JQuery, Ajax, Illustrator",
         "level":"60%"
       }
     ]
@@ -110,6 +110,12 @@
         "category":"React, Ajax, JSON",
         "image":"ctLink.jpg",
         "url":"http://cherrytree.netlify.app"
+      },
+	    {
+        "title":".NET MVC -- COMING SOON!",
+        "category":"ASP.Net Core MVC",
+        "image":"",
+        "url":""
       }
     ]
   },
