@@ -36,7 +36,7 @@
       {
         "company":"CherryTree Co.",
         "title":"Lead Developer",
-        "years":"October 2014 - June 2019",
+        "years":"October 2014 -->",
         "description":"SQL and Web development, Data integrations.",
 		"highlights": [
                 "Built data integrations in Dynamics GP to correct inventory costs and order pricing to accurately report earnings using SQL (queries, stored procedures, views, triggers and functions), SmartConnect and VB.NET. • Developed data migrations/integrations to consolidate sales data for four newly acquired companies, from QuickBooks to Dynamics CRM using Scribe, SSIS and SQL. • Created a mobile app for appointment bookings to grow revenue using Xamarin (XAML), C# and SQLite. • Provided technical support, development and training for data integrations that tracked customer and sales order information, using Scribe, SQL and Dynamics GP."
