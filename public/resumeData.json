@@ -54,17 +54,11 @@
     ],
 	"education":[
       {
-        "school":"triOS College",
-        "degree":"Web Technician Specialist",
-        "graduated":"Diploma",
+        "school":"",
+        "degree":"I have 3 diplomas.",
+        "graduated":"",
         "description":""
       },
-      {
-        "school":"Sheridan College",
-        "degree":"Computer Programmer",
-        "graduated":"Diploma",
-        "description":""
-      }
     ],
     "skills":[
 	  {
